@@ -15,9 +15,9 @@ And I was determined to use technology to help him and other visually diasabled 
 By clicking on the app screen, the app would speak out what it detects, either to read lables or detect item.</br>
 The app will consist of two screens;
 - Tell me </br>
-For this section, the app will be able to read every-day items like book name, food item name <b>...</b></br> 
+For this section, the app will be able to read every-day items like product label, book name, food item name <b>...</b></br> 
 This will be done by point the phone directly in front of what to read
-- Detect traffic
+- Detect traffic</br>
 Just by my experince, they navigate everyday and crossing the road without know the traffic sign is not such a good idea</br>
 This setion is to detect the trafiic sign and say what the model detect, so that He can cross safely.
 
